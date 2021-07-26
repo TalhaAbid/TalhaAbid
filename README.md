@@ -2,7 +2,7 @@
 I am a full stack developer focusing on interactive and memorable user experiences. Send me a message to work on a project together!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaabid)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaabid)](https://github.com/anuraghazra/github-readme-stats)
 
