@@ -3,6 +3,7 @@ I am a full stack developer focusing on interactive and memorable user experienc
 
 
 [![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaabid)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaabid&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TalhaAbid/TalhaAbid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
