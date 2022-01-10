@@ -1,11 +1,6 @@
 ### Hi, I'm Talha 👋
-I am a full stack developer focusing on interactive and memorable user experiences. Send me a message to work on a project together!
+![Metrics](https://metrics.lecoq.io/talhaabid?template=classic&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.ignored=c&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
 
-
-[![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaabid)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**TalhaAbid/TalhaAbid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
